@@ -40,5 +40,5 @@ https://onyanyada.github.io/kadai04_chat/
 - like機能の実装：https://ada2ndgsacademy.slack.com/archives/C079ACT8WG0/p1724850669417609?thread_ts=1724822418.542539&cid=C079ACT8WG0
 - ローカル変数を他に渡す方法：https://ada2ndgsacademy.slack.com/archives/C079ACT8WG0/p1724921808469139?thread_ts=1724913541.681759&cid=C079ACT8WG0
 - 変数のスコープ、onChildAdded：https://ada2ndgsacademy.slack.com/archives/C079ACT8WG0/p1725099149350959?thread_ts=1725087106.287999&cid=C079ACT8WG0
-- 親要素のmax-widthとmin-widthはinline-blockもblockに影響を与える：https://ada2ndgsacademy.slack.com/archives/C079ACT8WG0/p1724754408942279?thread_ts=1724750427.337229&cid=C079ACT8WG0
+- 親要素のmax-widthとmin-widthは子要素のinline-blockとblockに違う影響を与える：https://ada2ndgsacademy.slack.com/archives/C079ACT8WG0/p1724754408942279?thread_ts=1724750427.337229&cid=C079ACT8WG0
 
