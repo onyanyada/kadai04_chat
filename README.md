@@ -19,9 +19,9 @@ https://onyanyada.github.io/kadai04_chat/
 
 - YouTubeリンクを入力すると、その画面上でニコニコ動画のようにコメントを見られる
 - Google認証
-- 認証されたユーザーしかコメントできない、閲覧はどちらもできる、realtimedbにuser固有のIDを紐づけしたのでユーザーを判別できる
+- 認証されたユーザーしかコメントできない、コメントごとにユーザーを判別できる
 - メールリンク認証（デプロイが必要）
-- FireStorageに画像を保存、realtimedatabaseに画像urlを保存し、後者からurl取得、表示
+- FireStorageを使用した画像保存
 
 ## ⑥難しかった点・次回トライしたいこと(又は機能)
 
