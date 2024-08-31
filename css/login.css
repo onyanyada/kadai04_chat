@@ -1,0 +1,105 @@
+body {
+    background-color: #f0f0f0;
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+}
+
+header {
+    height: 60px;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #616161;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button {
+    padding: 6px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #da8686;
+}
+
+.login-wrapper {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.mailAuth {
+    margin: 40px 0px 10px 0px;
+}
+
+#mailAddress {
+    display: block;
+    margin: 0 auto;
+    height: 20px;
+    width: 200px;
+    margin-bottom: 10px;
+    background-color: #fff;
+
+}
+
+#mailLogin {
+    width: 205px;
+    background-color: #ce4c02;
+    color: #ffffff;
+    border: none;
+}
+
+#mailLogin:hover {
+    background-color: #da8686;
+}
+
+.or-block {
+    height: 100px;
+    padding: 0px;
+    display: flex;
+    /* 子要素をフレックスボックスにする */
+    align-items: center;
+    /* 縦方向で中央に揃える */
+    justify-content: center;
+    /* 横方向で中央に揃える */
+}
+
+.line {
+    border-bottom: 1px solid #b4b4b4;
+    display: inline-block;
+    width: 150px;
+}
+
+.or {
+    margin: 0 10px;
+    /* テキストの左右にスペースを追加 */
+}
+
+.gooogleLogin {
+    margin-top: 10px;
+}
+
+#login {
+    background-color: #fff;
+    border: 1px solid #b6b4b4;
+}
+
+.ggl {
+    width: 20px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+#login span {
+    vertical-align: middle;
+}
