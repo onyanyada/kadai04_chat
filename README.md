@@ -33,8 +33,6 @@ https://onyanyada.github.io/kadai04_chat/
 
 - 質問1.jsのファイル分け方法、特に今回のfirebaseのような場合、config、main、機能別にファイルを分けるのだと思いますが、同じ関数などを違うファイルで呼び出してるとき複雑です
 - 質問2.今回firebaseの関数で出てきたコールバック関数について解説
-- 質問3.今回はrealtimedatabaseを使いましたが、Authentificationを使ってメアドとパスも保存したい場合、2つrealtimedatabaseでデータベースを作るのでしょうか？
-
   
 ↓シェア：ほそかわさんに今回の課題等について色々役立つ情報を教えていただきました！
 - like機能の実装：https://ada2ndgsacademy.slack.com/archives/C079ACT8WG0/p1724850669417609?thread_ts=1724822418.542539&cid=C079ACT8WG0
